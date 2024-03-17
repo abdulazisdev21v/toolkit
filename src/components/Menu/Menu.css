@@ -1,0 +1,17 @@
+.menu {
+  padding: 40px 0;
+}
+.menu-text img {
+  width: 360px;
+  border-radius: 10px;
+}
+.menu-text h4 {
+  font-size: 30px;
+  margin-bottom: -10px;
+}
+.menu-text {
+  padding: 20px 20px 0 90px;
+}
+.text h4 {
+  font-size: 30px;
+}
